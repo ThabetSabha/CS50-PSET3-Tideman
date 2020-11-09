@@ -29,7 +29,7 @@ int pair_count;
 int candidate_count;
 
 // Function prototypes
-bool makesCycle(int a, int b)
+bool makesCycle(int a, int b);
 bool vote(int rank, string name, int ranks[]);
 void record_preferences(int ranks[]);
 void add_pairs(void);
