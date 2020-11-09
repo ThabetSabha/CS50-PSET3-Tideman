@@ -10,18 +10,18 @@ a C program that simulates a Tideman election, per the below.
 Number of voters: 5
 
 Rank 1: Alice
-
+  
 Rank 2: Charlie
-
+  
 Rank 3: Bob
 
 
 
 
 Rank 1: Alice
-
+  
 Rank 2: Charlie
-
+  
 Rank 3: Bob
 
 
