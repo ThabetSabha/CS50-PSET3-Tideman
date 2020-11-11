@@ -1,6 +1,6 @@
 # CS50-PSET3-Tideman
 
-My solution for Problem Set 3 for CS50 (https://www.edx.org/course/cs50s-introduction-to-computer-science).
+My solution for Problem Set 3 of CS50: Introduction to Computer Science (https://www.edx.org/course/cs50s-introduction-to-computer-science).
 
 a C program that simulates a Tideman election, per the below.
 
